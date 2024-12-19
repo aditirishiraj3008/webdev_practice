@@ -1,5 +1,5 @@
 //sliding navbar - not working
-const bar = document.querySelector(".fa-bars");
+/*const bar = document.querySelector(".fa-bars");
 const menu = document.querySelector(".menu");
 
 bar.addEventListener("click", () => {
@@ -15,8 +15,9 @@ dropdowns.forEach(dropdown => {
         currentDropdown.classList.toggle('show-dropdown');
     });
 });
+*/
 
-//tabs creation
+//tabs creation - works
 const tabs = document.querySelector(".tabs");
 const btns = document.querySelectorAll(".button");
 const articles = document.querySelectorAll(".content");
