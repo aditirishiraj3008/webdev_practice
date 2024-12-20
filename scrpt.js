@@ -16,6 +16,10 @@ dropdowns.forEach(dropdown => {
     });
 });
 */
+// just use classlist add remove no man, why fancy it up
+// to debug it , console.log everything
+// like you defined dropdowns, console.log and see if they are what you expected.
+
 
 //tabs creation - works
 const tabs = document.querySelector(".tabs");
